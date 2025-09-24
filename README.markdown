@@ -32,7 +32,7 @@ UNet-Image-Segmentation/
 ### Cloning the Repository
 First, clone the repository locally:
 ```bash
-git clone https://github.com/Rik-Sarkar-07/UNet-Image-Segmentation)
+git clone https://github.com/Rik-Sarkar-07/UNet-Image-Segmentation
 cd UNet-Image-Segmentation
 ```
 
